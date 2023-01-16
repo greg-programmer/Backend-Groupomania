@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "helmet": "^5.0.2",
+    "js-cookie": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.1",
+    "mongoose-unique-validator": "^3.0.0",
+    "multer": "^1.4.4",
+    "node-localstorage": "^2.2.1",
+    "node-sessionstorage": "^1.0.0",
+    "render": "^0.1.4",
+    "sessionstorage-for-nodejs": "^1.0.2"
+  },
+  "devDependencies": {
+    "express-reload": "^1.2.0"
+  }
+}
