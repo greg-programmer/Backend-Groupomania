@@ -8,16 +8,5 @@ DATABASE_TOKEN ='dsg486HGFHk13gd.GD.fdfd48!gregt'
 DATE_NOW = '24h'
 ADMIN = '62c60367dde93ca41ac9d56c' 
 
-----------------------------------------------------------------
 
-https://github.com/greg-programmer/front-groupomania = front
-
-Compte Admin //
-pseudo : davy.boutchoki@groupomania.fr
-password : ControlAdmin12abcdef
-
-A la racine du dossier frontend creer un fichier ENV.env en mettre ce qui suit à l'intèrieur
-
-REACT_APP_API_URL = http://localhost:4080/   
-REACT_APP_ADMIN = '62c60367dde93ca41ac9d56c'
 
